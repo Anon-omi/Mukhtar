@@ -1,5 +1,9 @@
-[{
-
+{
+ "show_dialog": false,
+ "title": "Notice",
+ "message": " 1:-👹 NMMS me new update version 4.0.1 aa gaya hai Contact me on telegram-> t.me/anonymous_omi",
+ "toast": "",
+ "force_update": false,
+ "maintenance": false,
+ "disable_app": false
 }
-
-]
